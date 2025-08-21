@@ -25,5 +25,3 @@ The project is currently **in progress** and focuses on immersive shooting mecha
 🚧 Currently in development. Core FPS mechanics are being implemented, with plans to add advanced AI, missions, and improved graphics.  
 
 
-## 👨‍💻 Author
-Developed by [Your Name]  
